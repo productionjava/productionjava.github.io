@@ -1,15 +1,16 @@
 {
-  "main.css": "/static/css/main.d14a30ba.chunk.css",
-  "main.js": "/static/js/main.6cc42df0.chunk.js",
-  "main.js.map": "/static/js/main.6cc42df0.chunk.js.map",
-  "static/js/1.014f74d0.chunk.js": "/static/js/1.014f74d0.chunk.js",
-  "static/js/1.014f74d0.chunk.js.map": "/static/js/1.014f74d0.chunk.js.map",
+  "main.css": "/static/css/main.436a1d50.chunk.css",
+  "main.js": "/static/js/main.9c6ea244.chunk.js",
+  "main.js.map": "/static/js/main.9c6ea244.chunk.js.map",
+  "static/js/1.4fa1527f.chunk.js": "/static/js/1.4fa1527f.chunk.js",
+  "static/js/1.4fa1527f.chunk.js.map": "/static/js/1.4fa1527f.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.d14a30ba.chunk.css.map": "/static/css/main.d14a30ba.chunk.css.map",
+  "static/css/main.436a1d50.chunk.css.map": "/static/css/main.436a1d50.chunk.css.map",
   "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/media/zavod.jpg": "/static/media/zavod.1d77fbf2.jpg",
   "static/media/book.png": "/static/media/book.7fd3346b.png",
   "index.html": "/index.html",
-  "precache-manifest.4d272c8a3c0fedde970e6749b1cefbf3.js": "/precache-manifest.4d272c8a3c0fedde970e6749b1cefbf3.js",
+  "precache-manifest.43cf9b9225ba3ea3a06b6ae48b0d7e99.js": "/precache-manifest.43cf9b9225ba3ea3a06b6ae48b0d7e99.js",
   "service-worker.js": "/service-worker.js"
 }

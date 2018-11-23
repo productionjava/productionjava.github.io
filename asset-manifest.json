@@ -1,16 +1,16 @@
 {
-  "main.css": "/static/css/main.436a1d50.chunk.css",
-  "main.js": "/static/js/main.dc37bf3f.chunk.js",
-  "main.js.map": "/static/js/main.dc37bf3f.chunk.js.map",
-  "static/js/1.1280b394.chunk.js": "/static/js/1.1280b394.chunk.js",
-  "static/js/1.1280b394.chunk.js.map": "/static/js/1.1280b394.chunk.js.map",
+  "main.css": "/static/css/main.900cf226.chunk.css",
+  "main.js": "/static/js/main.0096350f.chunk.js",
+  "main.js.map": "/static/js/main.0096350f.chunk.js.map",
+  "static/js/1.28869047.chunk.js": "/static/js/1.28869047.chunk.js",
+  "static/js/1.28869047.chunk.js.map": "/static/js/1.28869047.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.436a1d50.chunk.css.map": "/static/css/main.436a1d50.chunk.css.map",
+  "static/css/main.900cf226.chunk.css.map": "/static/css/main.900cf226.chunk.css.map",
   "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
   "static/media/zavod.jpg": "/static/media/zavod.1d77fbf2.jpg",
   "static/media/book.png": "/static/media/book.7fd3346b.png",
   "index.html": "/index.html",
-  "precache-manifest.6ab06bcb56454c6ff85df4fb1a8bb067.js": "/precache-manifest.6ab06bcb56454c6ff85df4fb1a8bb067.js",
+  "precache-manifest.e204e2d8f65bd17c5367892cc21f5aa7.js": "/precache-manifest.e204e2d8f65bd17c5367892cc21f5aa7.js",
   "service-worker.js": "/service-worker.js"
 }

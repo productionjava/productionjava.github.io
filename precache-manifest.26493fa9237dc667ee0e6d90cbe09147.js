@@ -4,27 +4,27 @@ self.__precacheManifest = [
     "url": "/static/media/zavod.1d77fbf2.jpg"
   },
   {
-    "revision": "eecb7d25b6cd1c1f9c8d45665c86d05a",
-    "url": "/static/media/book.eecb7d25.png"
+    "revision": "f7323e6ef77add75e36e69a97ef7087a",
+    "url": "/static/media/book.f7323e6e.png"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "43064dc1d287c24468bb",
-    "url": "/static/js/main.43064dc1.chunk.js"
+    "revision": "12183fb78e5c5be36c88",
+    "url": "/static/js/main.12183fb7.chunk.js"
   },
   {
     "revision": "5c68e916d2d8d12c3d3d",
     "url": "/static/js/1.5c68e916.chunk.js"
   },
   {
-    "revision": "43064dc1d287c24468bb",
+    "revision": "12183fb78e5c5be36c88",
     "url": "/static/css/main.bffba298.chunk.css"
   },
   {
-    "revision": "a40638ac632ada96d128e68986ad1d7a",
+    "revision": "5e21819c1c60524766fa34be87238365",
     "url": "/index.html"
   }
 ];
